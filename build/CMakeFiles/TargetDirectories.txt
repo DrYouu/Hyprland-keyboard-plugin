@@ -1,0 +1,3 @@
+/home/yoel/Hyprland-keybord-plugin/build/CMakeFiles/modkey-trigger.dir
+/home/yoel/Hyprland-keybord-plugin/build/CMakeFiles/edit_cache.dir
+/home/yoel/Hyprland-keybord-plugin/build/CMakeFiles/rebuild_cache.dir

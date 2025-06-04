@@ -1,6 +1,6 @@
-#include <hyprland/src/plugins/PluginAPI.hpp>
-#include <hyprland/src/Compositor.hpp>
-#include <hyprland/src/managers/HookSystemManager.hpp>
+
+#include </home/yoel/Hyprland-keybord-plugin/Hyprland/src/plugins/PluginAPI.hpp>
+#include </home/yoel/Hyprland-keybord-plugin/Hyprland/src/managers/HookSystemManager.hpp>
 #include <linux/input-event-codes.h>
 #include <unistd.h>
 #include <sys/wait.h>

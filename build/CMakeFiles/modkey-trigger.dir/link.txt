@@ -1,0 +1,1 @@
+/sbin/c++ -fPIC -Wl,--dependency-file=CMakeFiles/modkey-trigger.dir/link.d -shared -Wl,-soname,libmodkey-trigger.so -o libmodkey-trigger.so "CMakeFiles/modkey-trigger.dir/modkey-trigger.cpp.o"
